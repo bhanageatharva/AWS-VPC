@@ -1,8 +1,8 @@
 # AWS-VPC
-# You work for ABC Corporation and based on the expansion requirements of your
-# corporation you have been asked to create and set up a distinct Amazon VPC for
-# the production and development team. You are expected to perform the following
-# tasks for the respective VPCs.
+You work for ABC Corporation and based on the expansion requirements of your
+corporation you have been asked to create and set up a distinct Amazon VPC for
+the production and development team. You are expected to perform the following
+tasks for the respective VPCs.
 
 # Production Network:
 1. Design and build a 5-tier architecture.
